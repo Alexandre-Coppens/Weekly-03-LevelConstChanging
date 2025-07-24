@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\CarRoad.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CarRoad.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\CarRoadEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\CarRoad">
+      <UniqueIdentifier>{158D630A-DC29-3191-901C-F817876E72EA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CarRoad\CarRoad.Build.cs">
+      <Filter>Source\CarRoad</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\CarRoad\CarRoad.cpp">
+      <Filter>Source\CarRoad</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CarRoad\CarRoad.h">
+      <Filter>Source\CarRoad</Filter>
+    </ClInclude>
+    <Filter Include="Source\CarRoad\Private">
+      <UniqueIdentifier>{71610DDA-C2E9-39FA-BE28-1D601ACDC64B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CarRoad\Private\PlayerCar.cpp">
+      <Filter>Source\CarRoad\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\CarRoad\Public">
+      <UniqueIdentifier>{10AB3901-8AB0-340E-84A9-7427C1A7A436}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\CarRoad\Public\PlayerCar.h">
+      <Filter>Source\CarRoad\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

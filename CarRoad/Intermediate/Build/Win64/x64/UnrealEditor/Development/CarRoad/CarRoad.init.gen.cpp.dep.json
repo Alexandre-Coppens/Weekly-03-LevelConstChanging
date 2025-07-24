@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\github\\weekly-03-levelconstchanging\\carroad\\intermediate\\build\\win64\\unrealeditor\\inc\\carroad\\uht\\carroad.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\github\\weekly-03-levelconstchanging\\carroad\\intermediate\\build\\win64\\x64\\carroadeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "g:\\github\\weekly-03-levelconstchanging\\carroad\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\carroad\\definitions.carroad.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CarRoad",
+			"Path": "..\\Source\\CarRoad.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CarRoadEditor",
+			"Path": "..\\Source\\CarRoadEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

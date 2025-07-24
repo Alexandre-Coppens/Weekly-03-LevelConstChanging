@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-CarRoad.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"G:\Github\Weekly-03-LevelConstChanging\CarRoad\Intermediate\Build\Win64\x64\CarRoadEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.obj"
+"G:\Github\Weekly-03-LevelConstChanging\CarRoad\Intermediate\Build\Win64\x64\UnrealEditor\Development\CarRoad\CarRoad.init.gen.cpp.obj"
+"G:\Github\Weekly-03-LevelConstChanging\CarRoad\Intermediate\Build\Win64\x64\UnrealEditor\Development\CarRoad\PlayerCar.gen.cpp.obj"
+"G:\Github\Weekly-03-LevelConstChanging\CarRoad\Intermediate\Build\Win64\x64\UnrealEditor\Development\CarRoad\CarRoad.cpp.obj"
+"G:\Github\Weekly-03-LevelConstChanging\CarRoad\Intermediate\Build\Win64\x64\UnrealEditor\Development\CarRoad\PlayerCar.cpp.obj"
+"G:\Github\Weekly-03-LevelConstChanging\CarRoad\Intermediate\Build\Win64\x64\UnrealEditor\Development\CarRoad\Default.rc2.res"
+/OUT:"G:\Github\Weekly-03-LevelConstChanging\CarRoad\Intermediate\Build\Win64\x64\UnrealEditor\Development\CarRoad\UnrealEditor-CarRoad.lib"
